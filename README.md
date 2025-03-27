@@ -1,2 +1,4 @@
 # infograph_project
-https://cloud.mail.ru/public/X5Wg/W5FrUJzGi
+Инструкция по запуску:
+1) Запустить start_ipografika.bat
+
